@@ -9,6 +9,7 @@ namespace Github
             Console.WriteLine("Hello World!");
             Console.WriteLine("Good Morning!");
             Console.WriteLine("How are You today?");
+            Console.WriteLine("Have a nice day!");
         }
     }
 }
